@@ -4,7 +4,7 @@
 A website that contains all of the work that I have or am going to conduct over the upcoming year here at Staffordshire University. In addition there are details about myself that will hopefully drive the point that I'm very much commited to get the most out of my time here so that I can help to advance my career when I myself go on to join the video game industry. 
 
 ## Current Projects
-* Bomberman 
+* Cops and Robbers
 * Crunch Culture Research Paper
 * Bullet Hell Game 
 
